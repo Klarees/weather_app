@@ -1,5 +1,5 @@
 {
-  "name": "weather-app",
+  "name": "weatherapp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,10 @@
     "dev": "nodemon src/app.js"
   },
   "author": "Klarees",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.6",
+    "request": "^2.88.0"
+  }
 }
