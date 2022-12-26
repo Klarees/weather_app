@@ -3,9 +3,9 @@
 TO RUN THE CODE, KINDLY FOLLOW THE PROCEDURES BELOW.
 STEP 1: Open terminal on VsCode (ctrl+j)
 STEP 2: Run 'npm start'
-        The following will appear:
-        > weatherapp@1.0.0 start
-        > node src/app.js
+        # The following will appear:
+        # > weatherapp@1.0.0 start
+        # > node src/app.js
 
         Server is up and running on port:  3000
  STEP 3: Locate the port on your default browser by typing localhost:port
